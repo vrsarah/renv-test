@@ -2,17 +2,3 @@
   "R": {
     "Version": "4.4.1",
     "Repositories": [
-      { "Name": "CRAN", "URL": "https://packagemanager.posit.co/cran/latest" }
-    ]
-  },
-  "Packages": {
-    "jsonlite": {
-      "Package": "jsonlite",
-      "Version": "0.0.0.9999",
-      "Source": "Repository",
-      "Repository": "CRAN",
-      "Requirements": [],
-      "NeedsCompilation": "yes"
-    }
-  }
-}
